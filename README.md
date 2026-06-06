@@ -1,5 +1,7 @@
 # Grappling using Pygame
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Grappling-using-Pygame) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Grappling-using-Pygame) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 A 2D physics-based procedurally generated infinite platformer game built in Python using Pygame, featuring dynamic physics, smooth camera tracking, and a mouse-aimed grappling hook mechanic.
 
 ## Features
